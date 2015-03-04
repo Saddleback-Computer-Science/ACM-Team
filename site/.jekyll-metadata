@@ -1097,13 +1097,13 @@
   mtime: 2015-03-03 19:44:26.612448301 -08:00
   deps: []
 "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html":
-  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  mtime: 2015-03-03 20:29:06.272393858 -08:00
   deps: []
 "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html":
   mtime: 2015-03-03 19:44:26.612448301 -08:00
   deps: []
 "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html":
-  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  mtime: 2015-03-03 20:37:34.964383523 -08:00
   deps: []
 "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html":
   mtime: 2015-03-03 19:44:26.612448301 -08:00
@@ -1149,3 +1149,6 @@
   - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
   - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
   - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps: []
