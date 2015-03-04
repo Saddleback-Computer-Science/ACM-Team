@@ -1,10 +1,10 @@
 ---
 layout: news_item
-title: "Jekyll 1.0.0 Released"
-date: "2013-05-06 02:12:52 +0200"
-author: parkr
-version: 1.0.0
-categories: [release]
+title: "Cap & Trade"
+date: "2015-03-03 08:30:00 +0800"
+author: cydiasa
+problem_number: 1
+categories: [problems]
 ---
 
 Hey! After many months of hard work by Jekyll's contributors, we're excited
