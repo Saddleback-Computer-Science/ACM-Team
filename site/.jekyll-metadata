@@ -1,0 +1,1077 @@
+---
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/assets.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/collections.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/configuration.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/continuous-integration.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/contributing.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/datafiles.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/deployment-methods.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/drafts.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/extras.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/frontmatter.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/github-pages.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/history.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/index.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/installation.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/migrations.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/pages.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/pagination.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/permalinks.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/plugins.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/posts.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/quickstart.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/resources.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/sites.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/structure.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/templates.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/troubleshooting.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/upgrading.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/usage.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/variables.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_docs/windows.md":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_option.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/section_nav.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/docs_ul.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/docs.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-05-06-jekyll-1-0-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-05-08-jekyll-1-0-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-05-12-jekyll-1-0-2-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-06-07-jekyll-1-0-3-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-07-14-jekyll-1-1-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-07-24-jekyll-1-1-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-07-25-jekyll-1-0-4-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-07-25-jekyll-1-1-2-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-09-06-jekyll-1-2-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-09-14-jekyll-1-2-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-10-28-jekyll-1-3-0-rc1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-11-04-jekyll-1-3-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-11-26-jekyll-1-3-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-12-07-jekyll-1-4-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-12-09-jekyll-1-4-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2013-12-16-jekyll-1-4-2-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-01-13-jekyll-1-4-3-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-03-24-jekyll-1-5-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-03-27-jekyll-1-5-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.612448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-05-06-jekyll-turns-2-0-0.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-05-08-jekyll-2-0-3-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-06-04-jekyll-stickers-1-dollar-stickermule.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-06-28-jekyll-turns-21-i-mean-2-1-0.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-07-01-jekyll-2-1-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-07-29-jekyll-2-2-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-08-10-jekyll-2-3-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-09-09-jekyll-2-4-0-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-11-06-jekylls-midlife-crisis-jekyll-turns-2-5-0.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-11-08-jekyll-2-5-1-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-11-12-jekyll-2-5-2-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-12-17-alfredxing-welcome-to-jekyll-core.md":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2014-12-22-jekyll-2-5-3-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2015-01-20-jekyll-meet-and-greet.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2015-01-24-jekyll-3-0-0-beta1-released.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/_posts/2015-02-26-introducing-jekyll-talk.markdown":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/feed.xml":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/index.html":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/news/index.html":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/news/releases/index.html":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_item.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents_mobile.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/news_contents.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/news.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/help/index.md":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps:
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/page.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/top.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/header.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/primary-nav-items.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/footer.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/anchor_links.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_includes/analytics.html"
+  - "/home/cydiasa/Desktop/github/ACM-Team/site/_layouts/default.html"
+"/home/cydiasa/Desktop/github/ACM-Team/site/CNAME":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/README.md":
+  mtime: 2015-03-03 19:44:26.608448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/favicon.ico":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/fonts/fontawesome-webfont.eot":
+  mtime: 2015-03-03 19:44:26.616448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/fonts/fontawesome-webfont.svg":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/fonts/fontawesome-webfont.ttf":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/fonts/fontawesome-webfont.woff":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/freenode.txt":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/article-footer.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/footer-arrow.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/footer-logo.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/jekyll-sticker.jpg":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/logo-2x.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/logo-rss.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/img/octojekyll.png":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/js/html5shiv.min.js":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/js/respond.min.js":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
+"/home/cydiasa/Desktop/github/ACM-Team/site/latest_version.txt":
+  mtime: 2015-03-03 19:44:26.620448301 -08:00
+  deps: []
