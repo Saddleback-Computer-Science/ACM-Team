@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 
 main()
@@ -11,6 +12,7 @@ main()
     printf("And on the %d%s day, God created %s. And it was good.\n",
            i + 1, (i < 3) ? suffix[i] : "th", item[i]);
 }
+```
 But then God saw that vi led people into temptation. Instead of choosing the righteous ways of make, dbx, and RCS, people used long command lines, printf(), and tape backups.
 
 So God decreed, ``I see that Engineers have thus defiled my vi. And so, I shall create emacs, an editor more powerful than words. Further, for each instantiation vi hitherto, the Engineer responsible shalt perform Penance. And lo, the Penance wilt be painful; there will be much wailing and gnushingof teeth. The Engineer will read many lines of text. For each line of text, the Engineer must tell me which letters occur the most frequently.''
