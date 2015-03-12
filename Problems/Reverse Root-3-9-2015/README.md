@@ -1,3 +1,9 @@
+Problem was edited by me to include this input instead. Exit on -1 or EOF, up to you.
+
+```
+1427 0 876652098643267843 5276538 -1
+```
+
 http://acm.timus.ru/problem.aspx?space=1&num=1001
 
 The problem is so easy, that the authors were lazy to write a statement for it!
